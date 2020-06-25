@@ -1,1 +1,1 @@
-print("hello github")
+print("Save, commit, push")

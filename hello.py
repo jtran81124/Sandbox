@@ -1,6 +1,7 @@
 print("Save, commit, push")
 print("practicing pushing more onto master")
 print("practice pulling from master")
-print("practice working in a clone environment")
+print("practice working only in master")
 
-print("second try at working in only a branch")
+print("second try of working only in master MERGED")
+print("second try of working only in master MERGED")
